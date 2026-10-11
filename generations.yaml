@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_Bravo_(2007)"
+
+generations:
+  - name: "Bravo/Brava (182)"
+    start_year: 1995
+    end_year: 2001
+    description: "The three-door Bravo and five-door Brava hatchbacks."
+  - name: "Second Generation (198)"
+    start_year: 2007
+    end_year: 2014
+    description: "A five-door hatchback with T-Jet gasoline and MultiJet diesel engines."
